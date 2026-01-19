@@ -4,7 +4,7 @@ Welcome to my academic portfolio for CEP 146 NDD
  
 ## About Me
 - Name: ILIYA SAFSHEKAN
-- Program: CEP (Essential Tooling for Programmers)
+- Program: ~~CEP (Essential Tooling for Programmers)~~ CPA 
 - Year: 2026 Winter
 - Favorite Programming Language: C & PYTHON 
  
